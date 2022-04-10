@@ -1,0 +1,3 @@
+[submodule "Daily-Problems"]
+	path = Daily-Problems
+	url = git@github.com:TheFenrisLycaon/Daily-Problems.git
